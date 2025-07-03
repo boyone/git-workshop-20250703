@@ -225,5 +225,4 @@
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#4-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-1) | [next](../../git-workshop-mini.md#5-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-2)
-
+[home](../../README.md#) | [current](../../README.md#4-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-1) | [next](../../README.md#5-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-2)

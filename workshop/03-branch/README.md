@@ -383,4 +383,4 @@ git checkout <tagname>
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#3-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-2) | [next](../../git-workshop-mini.md#4-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-1)
+[home](../../README.md#) | [current](../../README.md#3-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-2) | [next](../../README.md#4-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-1)

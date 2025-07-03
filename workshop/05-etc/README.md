@@ -82,4 +82,4 @@ A typical git commit message will look like
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#5-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-2) | [next](../../git-workshop-mini.md#6-การบริหารและจัดการ-branch-โดยวิธี-branch-by-environment)
+[home](../../README.md#) | [current](../../README.md#5-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-2) | [next](../../README.md#6-การบริหารและจัดการ-branch-โดยวิธี-branch-by-environment)

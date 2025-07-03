@@ -227,4 +227,4 @@ bld/
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#2-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-1) | [next](../../git-workshop-mini.md#3-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-2)
+[home](../../README.md#) | [current](../../README.md#2-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-1) | [next](../../README.md#3-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-2)

@@ -38,4 +38,4 @@
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#1-ประวัติและความเป็นมา-และวิธีคิดในการจัดการ-souce-code-ด้วย-git) | [next](../../git-workshop-mini.md#2-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-1)
+[home](../../README.md#) | [current](../../README.md#1-ประวัติและความเป็นมา-และวิธีคิดในการจัดการ-souce-code-ด้วย-git) | [next](../../README.md#2-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-1)

@@ -4,6 +4,8 @@ marp: true
 
 # Source Code Management with Git Workshop
 
+---
+
 1. [ประวัติและความเป็นมา และวิธีคิดในการจัดการ Souce code ด้วย Git](#1-ประวัติและความเป็นมา-และวิธีคิดในการจัดการ-souce-code-ด้วย-git)
 2. [การจัดการและบริหาร Source Code เบื้องต้น ส่วนที่ 1](#2-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-1)
 3. [การจัดการและบริหาร Source Code เบื้องต้น ส่วนที่ 2](#3-การจัดการและบริหาร-source-code-เบื้องต้น-ส่วนที่-2)
@@ -11,7 +13,7 @@ marp: true
 5. [การจัดการและบริหาร Source Code โดยใช้การแชร์ผ่านเครื่อง Remote Server ส่วนที่ 2](#5-การจัดการและบริหาร-source-code-โดยใช้การแชร์ผ่านเครื่อง-remote-server-ส่วนที่-2)
 6. [การบริหารและจัดการ Branch โดยวิธี Branch by Environment](#6-การบริหารและจัดการ-branch-โดยวิธี-branch-by-environment)
 7. [การบริหารและจัดการ Branch โดยวิธี Trunk Base](#7-การบริหารและจัดการ-branch-โดยวิธี-trunk-base)
-8. [การบริหารและจัดการ Branch โดยวิธี Branch by Abstraction](#8-การบริหารและจัดการ-branch-โดยวิธี-branch-by-abstraction)
+8. [การจัดการ Version ของ Application](#8-การจัดการ-version-ของ-application)
 
 ---
 

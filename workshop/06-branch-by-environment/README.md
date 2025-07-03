@@ -131,4 +131,4 @@ gitGraph:
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#6-การบริหารและจัดการ-branch-โดยวิธี-branch-by-environment) | [next](../../git-workshop-mini.md#7-การบริหารและจัดการ-branch-โดยวิธี-trunk-base)
+[home](../../README.md#) | [current](../../README.md#6-การบริหารและจัดการ-branch-โดยวิธี-branch-by-environment) | [next](../../README.md#7-การบริหารและจัดการ-branch-โดยวิธี-trunk-base)

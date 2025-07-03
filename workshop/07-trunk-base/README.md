@@ -478,4 +478,4 @@ gitGraph:
 
 ---
 
-[home](../../git-workshop-mini.md#) | [current](../../git-workshop-mini.md#7-การบริหารและจัดการ-branch-โดยวิธี-trunk-base) | [next](../../git-workshop-mini.md#8-การบริหารและจัดการ-branch-โดยวิธี-branch-by-abstraction)
+[home](../../README.md#) | [current](../../README.md#7-การบริหารและจัดการ-branch-โดยวิธี-trunk-base) | [next](../../README.md#8-การบริหารและจัดการ-branch-โดยวิธี-branch-by-abstraction)
