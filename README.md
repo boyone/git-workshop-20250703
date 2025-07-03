@@ -38,7 +38,7 @@ marp: true
 
 ## [3. การจัดการและบริหาร Source Code เบื้องต้น ส่วนที่ 2](./workshop/03-branch/README.md)
 
-1. [วิธีคิดและวัตถุประสงค์ของการใช้งาน Branching, Merging: Workflow(image)](./workshop/03-branch/README.md#1-วิธีคิดและวัตถุประสงค์ของการใช้งาน-branch)
+1. [วิธีคิดและวัตถุประสงค์ของการใช้งาน Branching, Merging](./workshop/03-branch/README.md#1-วิธีคิดและวัตถุประสงค์ของการใช้งาน-branch)
 2. [การใช้งาน Branching](./workshop/03-branch/README.md#2-การใช้งาน-branch)
 3. [การ merge branch: conflict](./workshop/03-branch/README.md#3-การ-merge-branch-conflict)
 4. [การใช้งาน Tags](./workshop/03-branch/README.md#4-การใช้งาน-tags)
