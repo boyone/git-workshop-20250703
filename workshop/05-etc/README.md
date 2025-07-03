@@ -31,6 +31,8 @@ A typical git commit message will look like
 
 ## 2. การใช้งาน Pull Request
 
+![pull-request](./images/pull-request.png)
+
 ## 3. ข้อควรระวัง
 
 1. Force Push
