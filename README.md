@@ -72,10 +72,6 @@ marp: true
 
 1. [วิธีคิดและวัตถุประสงค์ของการใช้งานแบบ Trunk Base](./workshop/07-trunk-base/README.md#1-วิธีคิดและวัตถุประสงค์ของการใช้งานแบบ-trunk-base)
 2. [Use Cases ที่มีในการใช้ Trunk Base](./workshop/07-trunk-base/README.md#2-use-cases-ที่มีในการใช้-trunk-base)
-   - Feature Flags
-   - Branch by Abstraction: Branch by Abstraction is a set-piece technique to effect a `longer to complete` change in the trunk.
-   - Branch for Release
-   - Release from Trunk
 
 ---
 
