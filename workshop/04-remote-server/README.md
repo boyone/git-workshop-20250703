@@ -100,7 +100,7 @@
 - Create tag
 
   ```sh
-  git tag
+  git tag tagname
   git tag -a <tagname> -m <message>
   git tag -a <tagname> <commit ID>
   ```
