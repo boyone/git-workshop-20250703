@@ -200,7 +200,6 @@ v2.0.0 - breaking changes
 #### ✅ **ควรทำ**
 
 - เริ่มจาก `v1.0.0` เมื่อ public release
-- ใช้ `v0.x.x` สำหรับ development
 - อัปเดต CHANGELOG.md ทุกครั้ง
 - ทำ regression testing ก่อน MAJOR release
 
