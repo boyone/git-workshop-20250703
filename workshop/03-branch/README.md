@@ -183,7 +183,7 @@ git rebase <branch name>
 
 ## 4. การใช้งาน Tags
 
-[tag](./images/15-tag.png)
+![tag](./images/15-tag.png)
 
 ```sh
 git tag
